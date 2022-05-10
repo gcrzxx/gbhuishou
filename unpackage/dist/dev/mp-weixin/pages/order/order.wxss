@@ -1,0 +1,81 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+page.data-v-127632e4 {
+  height: 100%;
+  background-color: #f5f4f4;
+}
+.order.data-v-127632e4 {
+  padding: 32rpx 0;
+}
+.order .order-list.data-v-127632e4 {
+  padding: 16rpx 32rpx;
+  margin-bottom: 40rpx;
+  background-color: #ffffff;
+}
+.order .order-list .list-header.data-v-127632e4 {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 24rpx;
+}
+.order .order-list .list-header .list-id.data-v-127632e4 {
+  font-size: 28rpx;
+}
+.order .order-list .list-header .list-state.data-v-127632e4 {
+  font-size: 24rpx;
+  color: #333;
+}
+.order .order-list .list-content.data-v-127632e4 {
+  display: flex;
+}
+.order .order-list .list-content .list-img.data-v-127632e4 {
+  width: 140rpx;
+  height: 140rpx;
+}
+.order .order-list .list-content .list-img image.data-v-127632e4 {
+  width: 100%;
+  height: 100%;
+}
+.order .order-list .list-content .list-text.data-v-127632e4 {
+  padding-left: 40rpx;
+  width: 490rpx;
+}
+.order .order-list .list-content .list-text .text-title.data-v-127632e4 {
+  font-size: 32rpx;
+  padding-bottom: 8rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.order .order-list .list-content .list-text .text-description.data-v-127632e4 {
+  font-size: 28rpx;
+  color: #666;
+  padding-bottom: 4rpx;
+}
+.order .order-list .list-bottom.data-v-127632e4 {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 32rpx;
+}
+.order .order-list .list-bottom .list-bottom-left.data-v-127632e4 {
+  display: flex;
+}
+.order .order-list .list-bottom .list-bottom-left view.data-v-127632e4 {
+  background-color: #4CDB94;
+  color: #ffffff;
+  font-size: 24rpx;
+  padding: 8rpx 12rpx;
+  border-radius: 12rpx;
+}
+.order .order-list .list-bottom .list-bottom-left view.data-v-127632e4:nth-of-type(2) {
+  margin-left: 16rpx;
+}
+.order .order-list .list-bottom .list-bottom-right.data-v-127632e4 {
+  color: #666;
+}
+.order .order-list .list-bottom .list-bottom-right text.data-v-127632e4 {
+  font-size: 32rpx;
+  color: #000;
+  padding: 0 4rpx;
+}
+

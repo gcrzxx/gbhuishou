@@ -1,0 +1,1 @@
+<view class="data-v-b237504c"><view class="login-container data-v-b237504c"><button size="mini" open-type="getPhoneNumber" data-event-opts="{{[['getphonenumber',[['getPhone',['$event']]]]]}}" bindgetphonenumber="__e" class="data-v-b237504c">点击登录</button></view></view>

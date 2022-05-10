@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/collect/collect",
+    "pages/introduce/introduce",
+    "pages/list/list",
+    "pages/details/details",
+    "pages/personal/personal",
+    "pages/login/login",
+    "pages/order/order"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/home.png",
+        "selectedIconPath": "static/homeon.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/personal/personal",
+        "iconPath": "static/personal.png",
+        "selectedIconPath": "static/personalon.png",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "用于小程序位置接口的效果展示"
+    }
+  },
+  "usingComponents": {}
+}

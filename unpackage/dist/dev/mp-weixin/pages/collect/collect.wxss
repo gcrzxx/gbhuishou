@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.form-container.data-v-6cfe335c {
+  padding: 8rpx 24rpx;
+}
+.form-container.data-v-6cfe335c .is-required {
+  color: #019946;
+}
+.form-container.data-v-6cfe335c .label-text {
+  color: #019946;
+  font-size: 32rpx;
+}
+.form-container.data-v-6cfe335c .uni-forms-item__content {
+  display: flex;
+  justify-content: space-between;
+}
+.form-container .second-input.data-v-6cfe335c {
+  border: 2rpx solid #019946;
+  height: 70rpx;
+  padding-left: 20rpx;
+  width: 400rpx;
+}
+.form-container .default-input.data-v-6cfe335c {
+  border: 2rpx solid #019946;
+  height: 70rpx;
+  padding-left: 20rpx;
+  width: 100%;
+}
+.category-picker.data-v-6cfe335c {
+  width: 240rpx;
+  border: 2rpx solid #019946;
+}
+.category-picker .picker-container.data-v-6cfe335c {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16rpx;
+}
+.default-picker.data-v-6cfe335c {
+  width: 100%;
+}
+.submit-button.data-v-6cfe335c {
+  background-color: #019946;
+}
+

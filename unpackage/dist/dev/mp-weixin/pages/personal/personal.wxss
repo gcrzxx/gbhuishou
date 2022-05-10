@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.personal-container .top-container.data-v-3df0de86 {
+  text-align: center;
+  padding: 32rpx 0;
+}
+.personal-container .top-container image.data-v-3df0de86 {
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 50%;
+}
+.personal-container .top-container .name.data-v-3df0de86 {
+  padding-top: 16rpx;
+  color: #666;
+  font-size: 28rpx;
+}
+.personal-container .order-container.data-v-3df0de86 {
+  padding: 32rpx 120rpx;
+}
+.personal-container .order-container .nav-text.data-v-3df0de86 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2rpx solid #ccc;
+  padding: 8rpx 16rpx;
+}
+.personal-container .order-container .nav-text .nav-name.data-v-3df0de86 {
+  color: #333;
+  font-size: 32rpx;
+}
+

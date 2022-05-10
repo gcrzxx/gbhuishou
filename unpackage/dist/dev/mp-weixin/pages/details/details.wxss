@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.details-container.data-v-39cbb4e8 {
+  padding: 24rpx 32rpx;
+}
+.details-container .details-title.data-v-39cbb4e8 {
+  text-align: center;
+  font-size: 36rpx;
+  font-weight: 700;
+}
+.details-container .details-time.data-v-39cbb4e8 {
+  display: flex;
+  justify-content: space-between;
+  padding: 16rpx 80rpx;
+  color: #666;
+}
+.details-container .details-text.data-v-39cbb4e8 {
+  color: #333;
+}
+
