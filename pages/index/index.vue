@@ -36,9 +36,6 @@
 		</view>
 		<!-- 底部区域 -->
 		<view class="container2">
-			<view>新添加的功能 用于测试github</view>
-			<view>新添加的功能 用于测试github</view>
-			<view>新添加的功能 用于测试github</view>
 			<view class="bottom-area">
 				<view class="bottom-title">工博回收</view>
 				<view class="bottom-container">
